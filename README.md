@@ -9,7 +9,7 @@ This portfolio showcases a selection of my projects, including inventory managem
 ## Projects
 
 ### Project 1: Sales Dashboard
-![Sales Dashboard](https://i.imgur.com/vRY1xsd.jpeg)
+![Sales Dashboard](https://i.imgur.com/lfMUZAM.jpeg)
 
 *Description: This dashboard provides insights into sales performance, trends, and key metrics.*
 
@@ -27,7 +27,7 @@ This portfolio showcases a selection of my projects, including inventory managem
 *Description: This report analyzes the company's working capital, representing the difference between current assets and current liabilities. It provides insights into short-term liquidity and operational efficiency, helping to assess the company's ability to meet its short-term financial obligations.*
 
 ###  Project 5: Objectives Report
-![Objectives](https://i.imgur.com/IpANYKj.jpeg)
+![Objectives](https://i.imgur.com/Y3Xa3qe.jpeg)
 *Description: This report outlines organizational objectives, key performance indicators (KPIs), and progress towards achieving set goals. It provides stakeholders with a comprehensive overview of strategic priorities and performance metrics, facilitating data-driven decision-making and alignment across departments.*
 
 ## About Me
