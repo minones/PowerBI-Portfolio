@@ -10,7 +10,7 @@ This portfolio showcases a selection of my projects, including inventory managem
 *Description: This dashboard provides insights into sales performance, trends, and key metrics.*
 
 ### Project 2: Financial Analysis
-![Financial Analysis](C:\Users\guada\Downloads\forex.jpg)
+![Financial Analysis](forex.jpg)
 *Description: A comprehensive analysis of financial data to support strategic decision-making.*
 
 ### Project 3: Balance Analysis
