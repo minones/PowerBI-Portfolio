@@ -14,7 +14,7 @@ This portfolio showcases a selection of my projects, including inventory managem
 *Description: A comprehensive analysis of financial data to support strategic decision-making.*
 
 ### Project 3: Balance Analysis
-![Accounting Analytics](C:\Users\guada\Downloads\balance.jpg)
+![Accounting Analytics](C:/Users/guada/Downloads/balance.jpg)
 
 *Description: This report provides an overview of the company's financial structure, including assets, liabilities, and equity. It highlights the evolution of accounts over time and offers insights into the organization's overall financial health.*
 
