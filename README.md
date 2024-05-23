@@ -5,8 +5,8 @@ This portfolio showcases a selection of my projects, including inventory managem
 ## Projects
 
 ### Project 1: Sales Dashboard
-![Sales Dashboard](https://drive.google.com/file/d/1fvenOH9_qRlmDRw5uDS4AQ4Jpw_psuGc/view?usp=drive_link)
-(C:\Users\guada\OneDrive\Imágenes\Captura de pantalla 2023-12-31 115840.png)
+![Sales Dashboard](https://drive.google.com/file/d/1fvenOH9_qRlmDRw5uDS4AQ4Jpw_psuGc/view)
+
 *Description: This dashboard provides insights into sales performance, trends, and key metrics.*
 
 ### Project 2: Financial Analysis
