@@ -1,11 +1,15 @@
 # Power BI Portfolio
-Welcome to my Power BI portfolio. Here you'll find various projects showcasing my skills and expertise in data analysis and visualization using Power BI.
-
+Welcome to my Power BI portfolio. Here you'll find various projects showcasing my skills and expertise in data analysis and visualization using Power BI. 
 This portfolio showcases a selection of my projects, including inventory management, accounting, sales analysis, and commercial analytics. Each dashboard demonstrates my ability to drive data-driven decision-making and deliver innovative solutions tailored to specific business needs.
+
+**Skills and Expertise:**
+- **Power BI:** Proficient in designing and developing interactive dashboards and reports.
+- **Data Transformation:** Experienced in the entire data transformation process, from data acquisition to visualization. Skilled in SQL for querying databases, VBA for automation tasks, and Excel for data analysis and manipulation.
+- 
 ## Projects
 
 ### Project 1: Sales Dashboard
-![Sales Dashboard](https://drive.google.com/file/d/1fvenOH9_qRlmDRw5uDS4AQ4Jpw_psuGc/view)
+![Sales Dashboard]([https://i.imgur.com/vRY1xsd.jpeg))
 
 *Description: This dashboard provides insights into sales performance, trends, and key metrics.*
 
@@ -19,11 +23,11 @@ This portfolio showcases a selection of my projects, including inventory managem
 *Description: This report provides an overview of the company's financial structure, including assets, liabilities, and equity. It highlights the evolution of accounts over time and offers insights into the organization's overall financial health.*
 
 ### Project 4: Working Capital Report
-![Working Capital](https://drive.google.com/file/d/172HfXMWKpKWii41z2pocfQAMd9ERaAqK/view?usp=drive_link)
+![Working Capital](https://i.imgur.com/9aAyleJ.jpeg)
 *Description: This report analyzes the company's working capital, representing the difference between current assets and current liabilities. It provides insights into short-term liquidity and operational efficiency, helping to assess the company's ability to meet its short-term financial obligations.*
 
 ###  Project 5: Objectives Report
-![Objectives](https://drive.google.com/file/d/147LztkMoT8Dk131c8ezq74icBzv_A1gL/view?usp=drive_link)
+![Objectives](https://i.imgur.com/IpANYKj.jpeg)
 *Description: This report outlines organizational objectives, key performance indicators (KPIs), and progress towards achieving set goals. It provides stakeholders with a comprehensive overview of strategic priorities and performance metrics, facilitating data-driven decision-making and alignment across departments.*
 
 ## About Me
