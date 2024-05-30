@@ -18,6 +18,8 @@ html {
     height: 100vh;
 }
 
+
+
 #home .contender header {
     background-color: rgb(8, 8, 47);
     position: fixed;
@@ -32,7 +34,8 @@ html {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    margin-top: 10px;
+    height: 35px;
 }
 
 #home .contender-header h1 {
@@ -45,7 +48,7 @@ html {
     align-items: center;
     display: flex;
     flex-direction: row;
-    padding: 0 20px;
+    padding: 0;
 }
 
 #home .contender-header ul li a {
@@ -86,7 +89,7 @@ html {
 
 #home .contender .welcome {
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-top: 30px;
     text-transform: uppercase;
     letter-spacing: 5px;
 }
@@ -263,7 +266,8 @@ html {
 
 /* SECTION SKILLS */
 #skills {
-    background: linear-gradient(rgba(96, 12, 12, 0.855), rgba(96, 12, 12, 0.672)), url(img/skills2.webp); /*  rgb(96, 12, 12) */
+    background: linear-gradient(rgba(96, 12, 12, 0.855), rgba(96, 12, 12, 0.672)), url(img/skills2.webp);
+    /*  rgb(96, 12, 12) */
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
@@ -325,6 +329,7 @@ html {
     height: max-content;
     background-color: aliceblue;
 }
+
 #portfolio .title-section {
     width: 100%;
     text-align: center;
@@ -349,8 +354,9 @@ html {
 
 #portfolio img {
     height: 100px;
-    
+
 }
+
 #portfolio .portfolio-container {
     display: flex;
     justify-content: space-evenly;
@@ -370,11 +376,13 @@ html {
     margin-bottom: 10px;
     cursor: pointer;
 }
+
 #portfolio .pj img {
     width: 200px;
     object-fit: cover;
     filter: grayscale(1);
 }
+
 #portfolio .pj img:hover {
     filter: grayscale(0);
 }
@@ -464,4 +472,134 @@ html {
 
 #contact .contact-icons a:hover {
     color: rgb(195, 195, 28);
+}
+
+/* RESPONSIVE SECTION */
+
+
+/* RESPONSIVE 1 */
+@media (min-width: 768px) {
+    #home .presentation {
+        height: 80vh;
+        padding: 0 5vh;
+    }
+
+    #home .presentation h2 {
+        font-size: 45px;
+    }
+
+    #aboutme {
+        flex-direction: row;
+        padding: 50px;
+    }
+
+    #services .row {
+        flex-direction: row;
+    }
+
+    #skills {
+        height: 80vh;
+    }
+
+    #portfolio .portfolio-container {
+        flex-direction: row;
+    }
+}
+
+/* RESPONSIVE 2 */
+@media (max-width: 768px) {
+    #home .media {
+        display: none;
+    }
+    nav {
+        display: none;
+    }
+    nav.responsive {
+        display: block;
+        width: 100%;
+        position: absolute;
+        top: 48px;
+        left: 0;
+        background-color: rgba(3, 2, 32, 0.7);
+        padding: 10px 0;
+    }
+    nav.responsive ul{
+        display: block !important;
+        text-align: center;
+    }
+    nav.responsive ul li{
+        margin: 5px 0;
+    }
+    #icono-nav{
+        display: block;
+        margin-right: 20px;
+        color: rgba(133, 23, 23, 0.743);
+    }
+    #home .contender-header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #aboutme {
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    }
+
+    #aboutme .contender-pic {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    #services .row {
+        flex-direction: column;
+    }
+
+    #portfolio .portfolio-container {
+        flex-direction: column;
+    }
+    #portfolio .selected-image img {
+        width: auto;
+        height: 200px;
+    }
+
+
+    #skills .skills-contender {
+        position: relative;
+        background-color: rgba(133, 23, 23, 0.743);
+        padding: 0px 20px;
+        width: 100%;
+        max-width: 600px;
+        margin-bottom: 20px;
+    }
+
+    #skills .percent {
+        position: relative;
+        width: 100%;
+        background-color: aliceblue;
+        height: 10px;
+        border-radius: 6px;
+        overflow: hidden;
+        margin: 5px 0;
+    }
+
+    #skills .percent::before {
+        content: "";
+        position: absolute;
+        width: var(--wth);
+        height: 100%;
+        background-color: rgba(195, 195, 28, 0.774);
+    }
+}
+
+/* RESPONSIVE 3 */
+@media (max-width: 500px) {
+    #home .presentation h2 {
+        font-size: 30px;
+    }
+
+    #aboutme h2 {
+        font-size: 24px;
+    }
 }

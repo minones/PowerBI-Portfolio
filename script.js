@@ -20,6 +20,8 @@ function responsiveMenu() {
     }
 }
 
+
+
 const images = document.querySelectorAll('#portfolio .pj img');
 const selectedImg = document.getElementById('selected-img');
 const projectDescription = document.getElementById('project-description');
@@ -53,3 +55,4 @@ images.forEach((img, index) => {
         projectDescription.textContent = projectData[index].description;
     });
 });
+
